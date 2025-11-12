@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "name": "SonyLIV Premium",
+    "category": "Entertainment",
+    "value": 999,
+    "description": "Access to premium TV shows, live sports, and originals."
+  },
+  {
+    "id": 2,
+    "name": "Disney+ Hotstar",
+    "category": "Entertainment",
+    "value": 1499,
+    "description": "Stream latest movies, sports, and Disney content."
+  },
+  {
+    "id": 3,
+    "name": "ZEE5 Premium",
+    "category": "Entertainment",
+    "value": 699,
+    "description": "Unlimited movies and TV shows across multiple languages."
+  },
+  {
+    "id": 4,
+    "name": "MUBI Subscription",
+    "category": "Entertainment",
+    "value": 499,
+    "description": "Access to hand-picked international and indie films, curated daily."
+  },
+  {
+    "id": 5,
+    "name": "Swiggy One",
+    "category": "Food",
+    "value": 1200,
+    "description": "Free deliveries and exclusive discounts on food orders."
+  },
+  {
+    "id": 6,
+    "name": "Zomato Gold",
+    "category": "Food",
+    "value": 999,
+    "description": "Dining discounts and free deliveries from Zomato partners."
+  },
+  {
+    "id": 7,
+    "name": "FitPass",
+    "category": "Fitness",
+    "value": 1000,
+    "description": "Access to thousands of gyms and fitness centers across India."
+  },
+  {
+    "id": 8,
+    "name": "Cult.fit Membership",
+    "category": "Fitness",
+    "value": 1500,
+    "description": "Workout sessions and online fitness classes."
+  },
+  {
+    "id": 9,
+    "name": "EaseMyTrip Vouchers",
+    "category": "Travel",
+    "value": 1500,
+    "description": "Discount vouchers on flight and hotel bookings."
+  },
+  {
+    "id": 10,
+    "name": "Uber Pass",
+    "category": "Travel",
+    "value": 800,
+    "description": "Ride discounts and priority pickups."
+  },
+  {
+    "id": 11,
+    "name": "Amazon Shopping Voucher",
+    "category": "Shopping",
+    "value": 1000,
+    "description": "Amazon e-gift card redeemable on purchases."
+  },
+  {
+    "id": 12,
+    "name": "Flipkart Plus",
+    "category": "Shopping",
+    "value": 500,
+    "description": "Exclusive offers and free delivery on select products."
+  },
+  {
+    "id": 13,
+    "name": "1mg Health Coupons",
+    "category": "Health",
+    "value": 600,
+    "description": "Discounts on medicines and lab tests."
+  },
+  {
+    "id": 14,
+    "name": "Pharmeasy Plus",
+    "category": "Health",
+    "value": 700,
+    "description": "Free home delivery and health test benefits."
+  },
+  {
+    "id": 15,
+    "name": "BigBasket Smart Savings",
+    "category": "Groceries",
+    "value": 900,
+    "description": "Monthly grocery discount coupons and delivery offers."
+  },
+  {
+    "id": 16,
+    "name": "BookMyShow Credits",
+    "category": "Entertainment",
+    "value": 600,
+    "description": "Credits redeemable on movies and live event bookings."
+  },
+  {
+    "id": 17,
+    "name": "Ola Select",
+    "category": "Travel",
+    "value": 1000,
+    "description": "Ride priority and discounted fares on Ola rides."
+  },
+  {
+    "id": 18,
+    "name": "Headspace Premium",
+    "category": "Wellness",
+    "value": 799,
+    "description": "Access to guided meditation and mental wellness sessions."
+  },
+  {
+    "id": 19,
+    "name": "Times of India+ Subscription",
+    "category": "Reading",
+    "value": 499,
+    "description": "Ad-free premium news and exclusive editorial access."
+  },
+  {
+    "id": 20,
+    "name": "EazyDiner Prime",
+    "category": "Food",
+    "value": 1500,
+    "description": "Special dining privileges and discounts at top restaurants."
+  }
+]
